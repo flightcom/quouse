@@ -1,0 +1,9 @@
+{
+  "name": "DJIAssistant2",
+  "version": "0.0.1",
+  "main": "app.asar/main.js",
+  "scripts": {
+      "start": "electron ."
+  }
+}
+

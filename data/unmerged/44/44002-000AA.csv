@@ -1,0 +1,16 @@
+,date_mutation,city,valeur_fonciere,type_local,surface_reelle_bati,nombre_pieces_principales,surface_terrain,longitude,latitude
+0,2019,Aigrefeuille-sur-Maine,196000.0,Maison,77.0,4.0,367.0,-1.403959,47.078367
+1,2019,Aigrefeuille-sur-Maine,220000.0,Maison,100.0,4.0,1016.0,-1.408955,47.081948
+2,2019,Aigrefeuille-sur-Maine,210000.0,Maison,80.0,4.0,1240.0,-1.407293,47.081322
+3,2018,Aigrefeuille-sur-Maine,272000.0,Maison,110.0,5.0,722.0,-1.405506,47.083248
+4,2018,Aigrefeuille-sur-Maine,200000.0,Maison,84.0,4.0,384.0,-1.409099,47.081433
+5,2018,Aigrefeuille-sur-Maine,284850.0,Maison,121.0,4.0,1076.0,-1.405583,47.080574
+31,2016,Aigrefeuille-sur-Maine,220000.0,Maison,110.0,5.0,722.0,-1.405506,47.083248
+34,2016,Aigrefeuille-sur-Maine,210000.0,Maison,94.0,6.0,465.0,-1.40531,47.082339
+35,2016,Aigrefeuille-sur-Maine,172000.0,Maison,81.0,4.0,249.0,-1.405356,47.082477
+38,2016,Aigrefeuille-sur-Maine,223000.0,Maison,109.0,5.0,500.0,-1.407828,47.081279
+42,2016,Aigrefeuille-sur-Maine,230000.0,Maison,107.0,5.0,794.0,-1.406362,47.082775
+50,2015,Aigrefeuille-sur-Maine,150000.0,Maison,88.0,4.0,432.0,-1.409346,47.081358
+51,2015,Aigrefeuille-sur-Maine,190000.0,Maison,128.0,5.0,1139.0,-1.406193,47.081111
+56,2015,Aigrefeuille-sur-Maine,215000.0,Maison,99.0,4.0,804.0,-1.406132,47.081472
+58,2014,Aigrefeuille-sur-Maine,215000.0,Maison,91.0,5.0,578.0,-1.403104,47.080657

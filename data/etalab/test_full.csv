@@ -1,0 +1,34 @@
+id,city,date_mutation,latitude,longitude,nombre_pieces_principales,surface_reelle_bati,surface_terrain,type_local,valeur_fonciere
+97,Aigrefeuille-sur-Maine,2018,47.081433,-1.409099,4.0,84.0,384.0,Maison,200000.0
+98,Abbaretz,2018,,,4.0,113.0,258.0,Maison,41000.0
+99,Abbaretz,2018,,,3.0,57.0,723.0,Maison,75000.0
+100,Abbaretz,2014,,,2.0,50.0,335.0,Maison,30000.0
+101,Abbaretz,2019,,,2.0,93.0,777.0,Maison,130000.0
+102,Abbaretz,2016,,,4.0,75.0,810.0,Maison,150000.0
+103,Abbaretz,2019,,,3.0,78.0,1170.0,Maison,120000.0
+104,Abbaretz,2019,,,0.0,,2012.0,Dépendance,450000.0
+105,Abbaretz,2019,,,3.0,78.0,1.0,Maison,1.0
+106,Abbaretz,2017,,,3.0,80.0,97.0,Maison,68000.0
+107,Abbaretz,2017,,,3.0,120.0,247.0,Maison,102000.0
+108,Abbaretz,2014,,,0.0,540.0,880.0,Local industriel. commercial ou assimilé,95000.0
+109,Abbaretz,2014,,,4.0,84.0,621.0,Maison,155000.0
+110,Abbaretz,2019,,,11.0,416.0,3277.0,Maison,272000.0
+111,Abbaretz,2018,,,4.0,121.0,951.0,Maison,202000.0
+112,Abbaretz,2015,,,0.0,,96.0,Dépendance,10000.0
+113,Abbaretz,2015,,,2.0,117.0,1070.0,Maison,105000.0
+114,Abbaretz,2014,,,4.0,100.0,1055.0,Maison,130500.0
+115,Aigrefeuille-sur-Maine,2016,47.082775,-1.406362,5.0,107.0,794.0,Maison,230000.0
+116,Abbaretz,2019,,,5.0,143.0,474.0,Maison,245000.0
+117,Abbaretz,2014,,,0.0,540.0,300.0,Local industriel. commercial ou assimilé,95000.0
+118,Abbaretz,2018,,,4.0,98.0,1263.0,Maison,180000.0
+119,Aigrefeuille-sur-Maine,2015,47.081472,-1.406132,4.0,99.0,804.0,Maison,215000.0
+120,Abbaretz,2015,,,3.0,65.0,1964.0,Maison,65000.0
+121,Abbaretz,2016,,,0.0,426.0,804.0,Local industriel. commercial ou assimilé,85000.0
+122,Abbaretz,2016,,,3.0,121.0,316.0,Maison,190000.0
+123,Abbaretz,2019,,,5.0,132.0,4000.0,Maison,262500.0
+124,Abbaretz,2015,47.570788,-1.450679,3.0,133.0,5813.0,Maison,170000.0
+125,Abbaretz,2019,,,6.0,267.0,2193.0,Maison,419500.0
+126,Abbaretz,2017,,,4.0,83.0,365.0,Maison,162000.0
+127,Abbaretz,2014,,,2.0,69.0,228.0,Maison,58000.0
+128,Aigrefeuille-sur-Maine,2014,47.080657,-1.403104,5.0,91.0,578.0,Maison,215000.0
+129,Abbaretz,2019,,,5.0,91.0,554.0,Maison,160000.0

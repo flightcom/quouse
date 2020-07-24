@@ -1,0 +1,4 @@
+,date_mutation,city,valeur_fonciere,type_local,surface_reelle_bati,nombre_pieces_principales,surface_terrain
+0,2017,Abbaretz,150000.0,Maison,93.0,4.0,570.0
+2,2015,Abbaretz,10000.0,Dépendance,nan,0.0,96.0
+3,2014,Abbaretz,30000.0,Maison,50.0,2.0,335.0

@@ -1,0 +1,16 @@
+,date_mutation,city,valeur_fonciere,type_local,surface_reelle_bati,nombre_pieces_principales,surface_terrain
+0,2019,Abbaretz,262500.0,Maison,132.0,5.0,5081.0
+1,2019,Abbaretz,262500.0,Maison,132.0,5.0,4000.0
+2,2019,Abbaretz,1.0,Maison,78.0,3.0,1.0
+7,2018,Abbaretz,58500.0,Maison,66.0,2.0,705.0
+11,2018,Abbaretz,170000.0,Maison,128.0,6.0,1000.0
+12,2018,Abbaretz,170000.0,Maison,128.0,6.0,800.0
+13,2018,Abbaretz,170000.0,Maison,128.0,6.0,12263.0
+15,2018,Abbaretz,75000.0,Maison,57.0,3.0,723.0
+19,2017,Abbaretz,216000.0,Maison,87.0,2.0,1173.0
+20,2017,Abbaretz,210000.0,Maison,51.0,3.0,455.0
+23,2016,Abbaretz,90000.0,Maison,78.0,3.0,3.0
+27,2016,Abbaretz,95000.0,Maison,73.0,2.0,722.0
+28,2016,Abbaretz,95000.0,Maison,73.0,2.0,273.0
+36,2016,Abbaretz,151000.0,Maison,25.0,1.0,387.0
+49,2014,Abbaretz,71500.0,Maison,66.0,2.0,705.0
